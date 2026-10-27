@@ -1,36 +1,22 @@
-# Hi there, I'm Dr. Syed Rashid Mansoor 👋
-**MBBS (KMC 2025) | Senior Billing Auditor | Lead QA & Data Security | eClinicalWorks**
 
-> GitHub: @islamiano49 | Peshawar, Pakistan | Open to Remote EST/PST Night Shifts
+### Hi, I'm Dr. Syed Rashid Mansoor 👋 MBBS (KMC 2025)
 
----
+**Senior Billing Auditor & Lead QA & Data Security @ Ecodermedico | Jan 2022 - Oct 2025 | Peshawar**
 
-### 🩺 About Me
-MBBS Graduate from Khyber Medical College (2020-2025). During MBBS, I worked at **Ecodermedico, Peshawar (Jan 2022 - Oct 2025)** as:
+I help US clinics with:
+- 🩺 Real-time Medical Scribing in eClinicalWorks (60+ WPM)
+- 📋 Billing Audit & Denial Prevention
+- 🔒 HIPAA & Data Security SOPs
 
-**Senior Billing Auditor — Leading Quality Assurance & Data Security**
+**My 4 Portfolio Repos:**
+1. [SOAP-Notes-Templates] - Real examples: Samina 12F, Ayesha 17F, Haji Bakhtawar 51M
+2. [eCW-Audit-Checklist] - 5000+ charts QA checklist
+3. [HIPAA-Security-SOPs] - Zero breaches in 3.8 years
+4. [billing-denial-analyzer] - Python tool that saved $200K+ denials
 
-I went through your job description and I was happy to see that these responsibilities are in line with my strengths. With humility, I try to do my best in clinical documentation, eClinicalWorks, billing audit and patient counseling.
+> **📌 IMPORTANT:** All repos use synthetic data for public GitHub to stay HIPAA compliant.
+> **When actual data is needed in any repository, I will provide** real de-identified reports, audit sheets, and notes on request under NDA.
 
-### 💼 What I Bring
-- **EHR:** eClinicalWorks (eCW) - Encounters, Progress Notes, Telephone Encounters, Lab Review, Chart Auditing
-- **Billing Audit:** Claim Review, Denial Analysis, ICD-10 Coding Accuracy, Compliance Checks
-- **QA Lead:** Audited charts to meet payer & HIPAA standards, trained juniors
-- **Data Security Lead:** PHI Protection, Access Controls, HIPAA Compliance
-- **Scribing:** Real-time transcription, SOAP, HPI, ROS, 60+ WPM, headset/PC proficient
-- **Remote Ready:** Proven focus working alone - lights off, night shift, high accuracy setup
+**Contact:** syedrashidmansoor049@gmail.com | PMDC 946069-03 | Available EST hours
 
-### 🛠️ Tech for Healthcare
-`Python` `eClinicalWorks` `Medical Billing` `HIPAA` `ICD-10` `Data Security` `Excel`
-
-### 📌 My Repositories
-Check below - I share practical tools I used at Ecodermedico:
-- eCW-Audit-Checklist
-- billing-denial-analyzer  
-- HIPAA-Security-SOPs
-- SOAP-Notes-Templates
-
-### 📫 Contact
-Email: syedrashidmansoor049@gmail.com | PMDC: 946069-03
-
-_“With humility, trying best for patient care and accurate documentation.”_
+**Status:** 🟢 Open to remote US medical scribe & billing auditor roles
